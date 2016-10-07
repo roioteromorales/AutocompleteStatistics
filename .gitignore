@@ -8,3 +8,4 @@ gradlew.bat
 ### JetBrains template
 .idea/*
 
+src/main/resources/exports/*
